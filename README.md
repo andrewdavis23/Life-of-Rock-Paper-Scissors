@@ -7,6 +7,8 @@ Rock (Red)
 Paper (Green)
 Sciessors (Blue)
 
+## With Reproduction
 ![Simulation with Reproduction](rps_simulation_5Kframes_Reprod.gif)
 
+## Without Reproduction
 ![Simulation without Reproduction](rps_simulation_3Kframes_NoReprod.gif)
